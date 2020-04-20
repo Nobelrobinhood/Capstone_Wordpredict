@@ -1,0 +1,12 @@
+name: shiny
+title: shiny
+username:
+account: robsleurs
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2151930
+bundleId: 3039970
+url: https://robsleurs.shinyapps.io/shiny/
+when: 1587403888.93693
+asMultiple: FALSE
+asStatic: FALSE
