@@ -1,11 +1,8 @@
 # R-Capstone
 ## Coursera - Data Science Specialization Capstone
-* Author:  Kolesnikov Sergey
-* Date: 29.09.2016  
-* [Email](mailto:scitator@gmail.com)  
-* [GitHub url](https://github.com/Scitator/R-Capstone)
-* [Presentation url](http://rpubs.com/Scitator/NextWordPredictionApp)
-* [App](https://scitator.shinyapps.io/NextWordPredictionApp)
+* Author:  Rob Sleurs
+* Date: 20-4-2020
+
 
 ## Coursera Data Science Capstone Project
 The Coursera Data Science Specialization Capstone project from Johns Hopkins University (JHU) allows 
