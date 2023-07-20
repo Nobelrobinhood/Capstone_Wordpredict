@@ -1,7 +1,5 @@
 # R-Capstone
 ## Coursera - Data Science Specialization Capstone
-* Author:  Rob Sleurs
-* Date: 20-4-2020
 
 
 ## Coursera Data Science Capstone Project
