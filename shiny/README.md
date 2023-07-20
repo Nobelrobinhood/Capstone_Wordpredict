@@ -1,7 +1,5 @@
 # Woordvoorspel APP
 ## Coursera - Data Science Specialization Capstone
-* Author:  Rob Sleurs
-* Date: 20/4/2020
 
 
 ## Coursera Data Science Capstone Project
@@ -11,8 +9,6 @@ employers. Projects are drawn from real-world problems and are conducted with in
 and academic partners. In this part of course JHU is partnering with SwiftKey 
 (https://swiftkey.com/) to apply data science in the area of natural language processing.
 Data Science Capstone Project final result
-Rob Sleurs
-17 april 2020
 
 # Introduction:
 Data science is an inter-disciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from many structural and unstructured data Data science is related to data mining and big data.(wikipedia definition). Data can be everything: stuctured, unstructured, text, numbers. The source of the data can be text, measurment of sensors, pictures values, population information (tables),....
