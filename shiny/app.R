@@ -19,7 +19,7 @@ source("model.r")
 
 # 1. SERVER --------------------------------------------------------------------
 
-# Define server logic required to draw a histogram
+# Define server logic required to let the app work
 server <- shinyServer(function(input, output, session) {
   
   predicted_text1 <- reactive(next_word(input$text_in)[1])
